@@ -14,7 +14,8 @@ header{background-color: black;
     text-align: center;
     padding: px;
     border-radius: 0px 0px 40px 40px;
-
+width: 600px;
+margin: auto;
 }
 #marquee{background-color: gray;
 
