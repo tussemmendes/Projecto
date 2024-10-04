@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+body{ 
+ 
+
+    
+
+}
+
+
+header{background-color: black;
+    font-size: 1.2m;
+    color: white;
+    text-align: center;
+    padding: px;
+    border-radius: 0px 0px 40px 40px;
+
+}
+#marquee{background-color: gray;
+
+    border-radius: 0px 0px 40px 40px;
+
+}
+
+
+
+
+div{
+    margin: auto;
+}
+
+main{
+    margin: auto;
+
+
+}
+
+section{
+width: 600px;
+margin: auto;
+
+
+#img{display: block;
+    
+}
+
+
+iframe{
+    width: 400PX;
+    height: 400PX;
+}
+
+strong{text-decoration: underline;
+
+}
+
+
+p.descanso{
+    background-color: yellow;
+    color: black;
+}
+
+a{
+    font-size: 1.3em;
+}
+
+a:active{ background-color: red;
+
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
