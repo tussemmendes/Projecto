@@ -36,12 +36,10 @@ main{
 
 }
 
-section{
+.section{
 width: 600px;
 margin: auto;
-
-
-#img{display: block;
+background-image: url('../Estilo/download.jfif');
     
 }
 
