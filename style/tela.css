@@ -1,8 +1,14 @@
 @charset "UTF-8";
 
+*{
+    padding: 0px;
+    margin: 0px;
+}
 body{ 
  
-
+   background-image: url('../Estilo/download.jfif');
+   background-repeat:round;
+   background-attachment: fixed;
     
 
 }
@@ -36,11 +42,13 @@ main{
 
 }
 
-.section{
+section{
 width: 600px;
 margin: auto;
-background-image: url('../Estilo/download.jfif');
-    
+background-color: rgb(255, 254, 254);
+display: block;
+    box-shadow: -5px 9px 10px 10px;
+
 }
 
 
