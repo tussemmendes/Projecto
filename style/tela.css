@@ -4,9 +4,12 @@
     padding: 0px;
     margin: 0px;
 }
+
+
+
 body{ 
  
-   background-image: url('../Estilo/download.jfif');
+  
    background-repeat:round;
    background-attachment: fixed;
     
@@ -14,15 +17,22 @@ body{
 }
 
 
-header{background-color: black;
+header{background-color: rgba(0, 0, 0, 0.39);
     font-size: 1.2m;
     color: white;
+   
     text-align: center;
     padding: px;
     border-radius: 0px 0px 40px 40px;
 width: 100%;
 margin: auto;
 }
+
+h1{
+    text-shadow: 12px 10px 10px 10px  black;
+   
+}
+
 #marquee{background-color: gray;
 
     border-radius: 0px 0px 40px 40px;
@@ -43,7 +53,7 @@ main{
 }
 
 section{
-width: 600px;
+width: 90vw;
 margin: auto;
 background-color: rgb(255, 254, 254);
 display: block;
@@ -52,10 +62,8 @@ display: block;
 }
 
 
-iframe{
-    width: 400PX;
-    height: 400PX;
-}
+
+
 
 strong{text-decoration: underline;
 
@@ -64,7 +72,8 @@ strong{text-decoration: underline;
 
 p.descanso{
     background-color: yellow;
-    color: black;
+    color: rgba(0, 0, 0, 0.918);
+    
 }
 
 a{
